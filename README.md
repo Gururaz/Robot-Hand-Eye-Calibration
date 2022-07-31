@@ -7,3 +7,4 @@ White light interferometry (WLI) is already used for the inspection of rotationa
 ## Project guide : Jessica Ehrbar
 
 
+![IMG_0143](https://user-images.githubusercontent.com/63947525/182025517-ea59ad6c-8fc7-4853-8b65-a03ff001a80d.jpg)
