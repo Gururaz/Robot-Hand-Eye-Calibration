@@ -7,4 +7,8 @@ White light interferometry (WLI) is already used for the inspection of rotationa
 ## Project guide : Jessica Ehrbar
 
 
-![IMG_0143](https://user-images.githubusercontent.com/63947525/182025517-ea59ad6c-8fc7-4853-8b65-a03ff001a80d.jpg)
+
+![MethodologyFlowDiagram](https://user-images.githubusercontent.com/63947525/182025812-6426b25b-344c-46de-8126-2950615262fc.jpg)
+(https://github.com/Gururaz/Robot-Hand-Eye-Calibration/files/9228819/SchematicDiagram.pdf)
+![IMG_0143](https://user-images.githubusercontent.com/63947525/182025517-ea59ad6c-8fc7-4853-8b65-a03ff001a80d.jpg)[SchematicDiagram.pdf]
+[Uploading SchematicDiagram.pdf…]()
